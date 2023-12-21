@@ -1,3 +1,5 @@
+### AkhsyanalGowpur-201011400526-07TPLE007
+
 # SPK-Pemilihan-Laptop-Berbasis-Laravel
 
 Sistem Pendukung Keputusan (SPK) adalah suatu sistem yang membantu pengambilan keputusan dengan menggunakan metode tertentu. Metode Weighted Product (WP) adalah salah satu metode dalam SPK yang digunakan untuk menghitung dan memberikan bobot pada setiap kriteria dalam proses pengambilan keputusan.
